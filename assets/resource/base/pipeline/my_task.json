@@ -70,7 +70,7 @@
             142,
             57
         ],
-        "expected": "获得物资",
+        "expected": "今日补给",
         "action": "Click",
         "next": [
             "签到2"
